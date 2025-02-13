@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/forMarat/static/css/main.8a7ea2b3.css",
+    "main.js": "/forMarat/static/js/main.cde99801.js",
+    "static/js/488.b28f707a.chunk.js": "/forMarat/static/js/488.b28f707a.chunk.js",
+    "static/media/font1.otf": "/forMarat/static/media/font1.c1d2bb875b8c7f06f4be.otf",
+    "index.html": "/forMarat/index.html",
+    "main.8a7ea2b3.css.map": "/forMarat/static/css/main.8a7ea2b3.css.map",
+    "main.cde99801.js.map": "/forMarat/static/js/main.cde99801.js.map",
+    "488.b28f707a.chunk.js.map": "/forMarat/static/js/488.b28f707a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a7ea2b3.css",
+    "static/js/main.cde99801.js"
+  ]
+}
